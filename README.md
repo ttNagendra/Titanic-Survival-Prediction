@@ -75,9 +75,3 @@ The model's performance metrics (accuracy, precision, recall) are displayed in t
 ## Files Generated
 - `titanic_model.pkl`: Saved trained model
 - `feature_importance.csv`: Analysis of feature importance
-
-## Author
-[Your Name]
-
-## License
-This project is open source and available under the MIT License.
